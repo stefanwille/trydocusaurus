@@ -10,7 +10,7 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
-It is good for you.
+It is good for you. Believe me.
 
 ## Headers
 
